@@ -1,5 +1,6 @@
 Este es un archiv para el curso de git y gitup
-Soy nuevo es esto
+Soy nueva es esto
 No se que hacer
 
 Vamos a intentarlo
+Voy a corregir algo en el GIT
