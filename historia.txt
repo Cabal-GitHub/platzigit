@@ -1,6 +1,9 @@
 Este es un archiv para el curso de git y gitup
 Soy nueva es esto
+Estoy practicando
 Ya se que hacer
 Esto no es lo que parecegit statu
 Vamos a intentarlo
-Voy a corregir algo en el GIT
+Voy a corregir algo pero no lo voy a enviar en el commit
+Usare el git reset --head
+aqui vamos nuevamnete
