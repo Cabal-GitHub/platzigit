@@ -1,6 +1,6 @@
 Este es un archiv para el curso de git y gitup
 Soy nueva es esto
 Ya se que hacer
-Esto no es lo que parece
+Esto no es lo que parecegit statu
 Vamos a intentarlo
 Voy a corregir algo en el GIT
